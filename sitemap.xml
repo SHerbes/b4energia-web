@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://b4energia.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://b4energia.com/servicios/tableros-disyuntor.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://b4energia.com/servicios/termica-cortes.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://b4energia.com/servicios/aire-acondicionado.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://b4energia.com/servicios/instalaciones-recableado.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://b4energia.com/servicios/camaras-seguridad.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://b4energia.com/servicios/urgencias.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://b4energia.com/zonas/san-miguel.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://b4energia.com/zonas/don-torcuato.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://b4energia.com/zonas/malvinas-argentinas.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://b4energia.com/zonas/jose-c-paz.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://b4energia.com/zonas/bella-vista.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
